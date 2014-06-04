@@ -7,7 +7,7 @@
 				<span class="icon-bar"></span>
 				<span class="icon-bar"></span>
 			</button>
-			<a class="scroll navbar-brand navLogo" data-speed="380" data-target="#home" href="#navMehome"><img src="img/logo.png" alt=""></a>
+			<a class="scroll navbar-brand navLogo" data-speed="380" data-target="#home" href="#navMehome"><img src="img/forte_logo.png" alt=""></a>
 		</div>
 		<div class="collapse navbar-collapse navbar-m-collapse ">
 			<ul class="nav navbar-nav navbar-right">
