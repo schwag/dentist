@@ -17,7 +17,6 @@
 				<li><a class="scroll" data-speed="380" data-target="#ourprocess" href="#process">Our Process</a></li>
 				<li><a class="scroll" data-speed="380" data-target="#casestudies" href="#casestudy">Case Studies</a></li>
 				<li><a class="scroll" data-speed="380" data-target="#contact" href="#contactus">Contact</a></li>
-                <li><a class="scroll" href="http://www.myriadcore.com/blog/" target="_blank">Blog</a></li>
 			</ul>
 		</div>
 
