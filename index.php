@@ -31,7 +31,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <div class="col-xs-12 pointerMoneybrown">
                       
             </div>
-        <section id="aboutus">
+        <section id="campaigns">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-10 col-sm-offset-1">
@@ -61,7 +61,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <div class="col-xs-12 pointerWhite">
                
             </div>
-        <section id="campaigns" class="gray-back">
+        <section id="aboutus" class="gray-back">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-10 col-sm-offset-1 text-center">

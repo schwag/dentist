@@ -24,7 +24,7 @@ $(document).ready(function () {
 });
 
 $(document).ready(function () {
-    $('a[href^="#aboutus"]').on('click', function (e) {
+    $('a[href^="#campaigns"]').on('click', function (e) {
         e.preventDefault();
 
         var target = this.hash,
@@ -39,7 +39,7 @@ $(document).ready(function () {
 });
 
 $(document).ready(function () {
-    $('a[href^="#campaigns"]').on('click', function (e) {
+    $('a[href^="#aboutus"]').on('click', function (e) {
         e.preventDefault();
 
         var target = this.hash,

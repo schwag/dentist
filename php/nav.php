@@ -11,8 +11,8 @@
 		</div>
 		<div class="collapse navbar-collapse navbar-m-collapse ">
 			<ul class="nav navbar-nav navbar-right">
-				<li><a class="scroll" data-speed="380" data-target="#about" href="#aboutus">Campaign Types</a></li>
-				<li><a class="scroll" data-speed="380" data-target="#campaigntypes" href="#campaigns">Who We Are</a></li>
+				<li><a class="scroll" data-speed="380" data-target="#about" href="#campaigns">Campaign Types</a></li>
+				<li><a class="scroll" data-speed="380" data-target="#campaigntypes" href="#aboutus">Who We Are</a></li>
 				<li><a class="scroll" data-speed="380" data-target="#ourcapabilities" href="#capabilities">Our Capabilities</a></li>
 				<li><a class="scroll" data-speed="380" data-target="#ourprocess" href="#process">Our Process</a></li>
 				<li><a class="scroll" data-speed="380" data-target="#casestudies" href="#casestudy">Case Studies</a></li>
